@@ -22,3 +22,9 @@ Captured images are saved in the `img_captured/` folder.
 1. Install required libraries:
 ```bash
 pip install opencv-python numpy
+```
+2.Run the Script:
+```bash
+python #FACE_ZOOM_PROJECT.py
+```
+MAKE SURE THAT THE WEBCAM IS CONNECTED!
